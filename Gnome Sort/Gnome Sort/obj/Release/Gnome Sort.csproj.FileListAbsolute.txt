@@ -1,0 +1,6 @@
+C:\Users\Usaid Alam\documents\visual studio 2015\Projects\Gnome Sort\Gnome Sort\bin\Release\Gnome Sort.exe.config
+C:\Users\Usaid Alam\documents\visual studio 2015\Projects\Gnome Sort\Gnome Sort\bin\Release\Gnome Sort.exe
+C:\Users\Usaid Alam\documents\visual studio 2015\Projects\Gnome Sort\Gnome Sort\bin\Release\Gnome Sort.pdb
+C:\Users\Usaid Alam\documents\visual studio 2015\Projects\Gnome Sort\Gnome Sort\obj\Release\Gnome Sort.csprojResolveAssemblyReference.cache
+C:\Users\Usaid Alam\documents\visual studio 2015\Projects\Gnome Sort\Gnome Sort\obj\Release\Gnome Sort.exe
+C:\Users\Usaid Alam\documents\visual studio 2015\Projects\Gnome Sort\Gnome Sort\obj\Release\Gnome Sort.pdb
